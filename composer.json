@@ -38,7 +38,7 @@
         "doctrine/dbal": "2.5.13",
         "fideloper/proxy": "^4.0",
         "graham-campbell/binput": "^5.0",
-        "graham-campbell/exceptions": "^11.0",
+        "graham-campbell/exceptions": "^11.1",
         "graham-campbell/markdown": "^10.0",
         "guzzlehttp/guzzle": "^6.2.1",
         "jenssegers/date": "^3.2",
